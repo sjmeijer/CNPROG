@@ -1,2 +1,2 @@
 # CNPROG
-An open source Q&amp;A(question and answer) eco-system 
+An open source web-based Q&amp;A system 
